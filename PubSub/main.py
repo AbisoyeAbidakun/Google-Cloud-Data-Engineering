@@ -5,7 +5,7 @@ from google.cloud import bigquery
 
 # Construct a BigQuery client object.
 client = bigquery.Client()
-table_id = "avian-principle-376523.analytics.pubsub_messages"
+table_id = "supple-lock-385512.analytics_us.pubsub_messages"
 
 
 # Triggered from a message on a Cloud Pub/Sub topic.
